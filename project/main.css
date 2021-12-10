@@ -1,0 +1,230 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'montserrat', sans-serif;
+    padding: 100px 200px;
+}
+
+header {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+
+input[type="text"] {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(77, 74, 74);
+    width: 400px;
+    /* max-width: 400px; */
+    padding: 10px 15px;
+    border: 2px solid rgb(162, 167, 168);
+    outline-color: 2px solid rgb(126, 132, 134);
+    outline-width: 2px;
+    border-radius: 10px;
+    transition: 0.2s ease-out;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+/* input[type="submit"] {
+    font-size: 25px;
+    font-weight: 600;
+    color: rgb(77, 74, 74);
+    background: #fff;
+    width: 75px;
+    padding: 10px 15px;
+    border: 2px solid rgb(162, 167, 168);
+    outline-width: 2px;
+    border-radius: 10px;
+    transition: 0.2s ease-out;
+} */
+
+input[type="submit"]:hover {
+    background-color: rgb(126, 132, 134);
+    border-color: rgb(94, 99, 100);
+    color: #fff;
+}
+
+.submit {
+    font-size: 25px;
+    font-weight: 600;
+    background: #fff;
+    width: 75px;
+    /* max-width: 100px; */
+    padding: 10px 15px;
+    border: 2px solid rgb(162, 167, 168);
+    /* outline-color: rgb(126, 132, 134); */
+    outline-width: 2px;
+    border-radius: 10px;
+    transition: 0.2s ease-out;
+}
+
+.nameofdash {
+    font-weight: 800;
+    font-size: 30px;
+    color: rgb(32, 32, 32);
+    padding: 20px 0;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.city {
+    font-weight: 800;
+    font-size: 20px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.weatherAndTemp {
+    max-width: 100%;
+    height: 35%;
+    overflow: hidden;
+}
+
+.weather {
+    font-weight: 600;
+    font-size: 10px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    float:left;
+    width: 20%;
+}
+
+.temp {
+    font-weight: 600;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+    float:left;
+    width: 50%;
+}
+
+.wind {
+    font-weight: 600;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 15px;
+}
+
+.pressure {
+    font-weight: 600;
+    font-size: 14px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 3px;
+}
+
+.container {
+    display: flexbox;
+    width: 950px;
+    height: 200px;
+    background: white;
+    margin: 20px 0px;
+    position: relative;
+}
+
+.card {
+    width: 280px;
+    height: 200px;
+    background: white;
+    position: relative;
+    border: 2px solid rgb(162, 167, 168);
+    border-radius: 10px;
+    float: left;
+    margin-right: 18px;
+    margin-bottom: 25px;
+}
+
+.card:hover {
+    border-color: rgb(126, 132, 134);
+}
+
+.close {
+    position: absolute;
+    right: 15px;
+    top: 14px;
+    width: 25px;
+    height: 25px;
+}
+
+.close:hover:after,  .close:hover:before{
+    background-color: rgb(126, 132, 134);
+}
+
+.close:before, .close::after {
+    position: absolute;
+    left: 10px;
+    content: ' ';
+    height: 27px;
+    width: 2px;
+    background-color: rgb(162, 167, 168);
+}
+
+.close:before {
+    transform: rotate(45deg);
+}
+
+.close:after {
+    transform: rotate(-45deg);
+}
+
+.range {
+    overflow: hidden;
+    -webkit-appearance: none;
+    width: 250px;
+    height: 3px;
+    margin-left: 0px; 
+    background-color: rgb(126, 132, 134);
+    outline: none;
+    opacity: 0.8;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    margin-bottom: 10px;
+}
+
+.range::-webkit-slider-thumb {
+    -webkit-appearance: none; 
+    appearance: none;
+    width: 10px;
+    height: 20px;
+    border-radius: 30%;
+    background: black;
+    cursor: pointer;
+    box-shadow: -400px 0 0 400px rgb(223, 223, 223);
+} 
+
+.range::-webkit-slider-runnable-track {
+    -webkit-appearance: none;
+    color: rgb(223, 223, 223);
+}
+
+.hotter {
+    width: 227px;
+    display: inline-block;
+}
+
+#temp {
+    width: 30%;
+    display: inline-block;
+}
+
+.choosentemp {
+    max-width: 100%;
+    height: 35%;
+    font-weight: 600;
+    font-size: 18px;
+    color: rgb(32, 32, 32);
+}
+
+.classRange {
+    margin-bottom: 10px;
+}

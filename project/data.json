@@ -1,0 +1,555 @@
+[
+    {
+        "city": "Москва",
+        "weather": "cloudy",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+    {
+        "city": "Санкт-Петербург",
+        "weather": "fog",
+        "temp": "+9",
+        "pressure": "761",
+        "wind": "3"
+    },
+    {
+        "city": "Новосибирск",
+        "weather": "sunny",
+        "temp": "+10",
+        "pressure": "764",
+        "wind": "6"
+    },
+    {
+        "city": "Екатеринбург",
+        "weather": "rainy",
+        "temp": "-9",
+        "pressure": "758",
+        "wind": "7"
+    },
+  	{
+        "city": "Казань",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Нижний Новгород",
+        "weather": "partlycloudy",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Челябинск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Омск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Ростов-на-Дону",
+        "weather": "fog",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Уфа",
+        "weather": "partlycloudy",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Красноярск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Пермь",
+        "weather": "rainy",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Воронеж",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Волгоград",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Краснодар",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Саратов",
+        "weather": "rainy",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Тюмень",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Тольятти",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Ижевск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Барнаул",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Иркутск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Ульяновск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Хабаровск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Ярославль",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Владивосток",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Махачкала",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Томск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Оренбург",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Кемерово",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Новокузнецк",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Рязань",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Астрахань",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Набережные Челны",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Пенза",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Липецк",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Киров",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Тула",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Чебоксары",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Калининград",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+  	{
+        "city": "Курск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Улан-Удэ",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Ставрополь",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Балашиха",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Магнитогорск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Тверь",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Севастополь",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Иваново",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Брянск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Сочи",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Белгород",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Нижний Тагил",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Владимир",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Архангельск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Сургут",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Чита",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Калуга",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Симферополь",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Смоленск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Волжский",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Курган",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Орёл",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Череповец",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Вологда",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Саранск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Владикавказ",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Якутск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Мурманск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Подольск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Тамбов",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Грозный",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Стерлитамак",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Петрозаводск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Кострома",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Нижневартовск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Новороссийск",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Йошкар-Ола",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Комсомольск-на-Амуре",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Таганрог",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    },
+	{
+        "city": "Самара",
+        "weather": "sunny",
+        "temp": "+7",
+        "pressure": "760",
+        "wind": "5"
+    }
+]

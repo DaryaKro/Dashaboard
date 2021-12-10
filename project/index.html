@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="main.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;800&display=swap" rel="stylesheet">
+        <title>Document</title>
+    </head>
+    <body>
+        <header>
+            <div>
+                <input type="text" id="ajax" list="data" placeholder="Enter city..." class="inputcity">
+                <datalist id="data"></datalist>
+            
+                <input type="submit" value="+" class="submit">
+            </div>
+        </header>
+        <p class="nameofdash">Наименование Дашборда</p>
+        <div>
+            <div class="choosentemp">
+                <div class="hotter">
+                    Где сейчас теплее, чем 
+                </div>
+                <div id="temp"></div>
+            </div>
+            <div class="rangeClass">
+                <input type="range" min="-20" max="30" step="1" id="input" oninput="tempInRange(this.value)" class="range">
+            </div>
+        </div>
+        <main>
+            <div class="container" id="container"></div>
+        </main>
+    </body>
+    <script src="main.js"></script>
+</html>
